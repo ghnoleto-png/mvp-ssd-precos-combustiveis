@@ -1,0 +1,7 @@
+Coloque nesta pasta os 5 PNG gerados pelo notebook 03 (baixados do Volume
+/Volumes/workspace/mvp_combustiveis/raw/figuras):
+p1_semanas_etanol_compensa.png
+p1_razao_semanal_uf.png
+p2_bandeira_vs_branca.png
+p3_amplitude_capitais.png
+p3_brasilia_semanal.png
